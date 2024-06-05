@@ -15,7 +15,7 @@
     "eject": "cd src/frontend && npm run eject",
     "predeploy": "npm run build:frontend",
     "deploy": "gh-pages -d frontend/build",
-    "homepage": "https://tarungajamoni.github.io/natukodi_pulav"
+    "homepage": "https://tarungajamoni.github.io/natukodi_deploy"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.3",
